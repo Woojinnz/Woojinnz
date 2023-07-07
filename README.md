@@ -13,6 +13,7 @@ My planned graduation year is 2025.
 - 📫 How to reach me:
     - [Email](mailto:woojinjn@gmail.com)
     - [LinkedIn](https://www.linkedin.com/in/woojinnz/)
+    - [Contact me via forms!](https://forms.gle/8H2bhwJu6mTVps3s8)
 
 ![](https://komarev.com/ghpvc/?username=Woojinnz&color=orange)
 
