@@ -1,6 +1,7 @@
 ## Hi 👋
 My name is Woojin Jeon! <br />
-I am a Part II Software Engineer at the University of Auckland
+I am a Part II Software Engineer at the University of Auckland.
+My planned graduation year is 2025.
 
 [Check out my portfolio!](https://www.woojinjeon.me)
 
