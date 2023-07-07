@@ -1,4 +1,12 @@
-### Hi 👋
+## Hi 👋
+My name is Woojin Jeon!
+I am a Part II Software Engineer at the University of Auckland
+
+[Check out my portfolio!](https://www.woojinjeon.me)
+
+
+![](https://komarev.com/ghpvc/?username=Woojinnz&color=orange)
+
 
 <!--
 **Woojinnz/Woojinnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
