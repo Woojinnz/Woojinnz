@@ -7,8 +7,6 @@ My planned graduation year is 2025.
 
 - 💬 Ask me about:
   - What my favourite food is 😋
-  - What I can cook 🧑‍🍳
-  - What I am learning to cook 🍴
 
 - 📫 How to reach me:
     - [Email](mailto:woojinjn@gmail.com)
