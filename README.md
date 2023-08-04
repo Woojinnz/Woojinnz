@@ -13,8 +13,6 @@ My planned graduation year is 2025.
     - [LinkedIn](https://www.linkedin.com/in/woojinnz/)
     - [Contact me via forms!](https://forms.gle/8H2bhwJu6mTVps3s8)
 
-![](https://komarev.com/ghpvc/?username=Woojinnz&color=orange)
-
 
 <!--
 **Woojinnz/Woojinnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
